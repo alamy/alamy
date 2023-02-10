@@ -1,42 +1,39 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 480 480" style="enable-background:new 0 0 480 480;" xml:space="preserve" width="512px" height="512px"><g><g>
-	<g>
-		<path d="M480,272V40c0-22.056-17.944-40-40-40H88C65.944,0,48,17.944,48,40v160H24c-13.232,0-24,10.768-24,24v232    c0,13.232,10.768,24,24,24h168c13.232,0,24-10.768,24-24v-48h24v48c0,13.232,10.768,24,24,24h192c13.232,0,24-10.768,24-24v-88    c0-13.232-10.768-24-24-24h-98.232l-10.664-32H440C462.056,312,480,294.056,480,272z M200,456c0,4.416-3.592,8-8,8H24    c-4.408,0-8-3.584-8-8v-16h184V456z M200,424H16V256h184V424z M200,240H16v-16c0-4.416,3.592-8,8-8h168c4.408,0,8,3.584,8,8V240z     M192,200H64V40c0-13.232,10.768-24,24-24h352c13.232,0,24,10.768,24,24v200H216v-16C216,210.768,205.232,200,192,200z M240,392    h-24v-16h24V392z M241.472,360H216v-48h114.232l10.664,32H264C253.584,344,244.784,350.712,241.472,360z M272,464h-8    c-4.408,0-8-3.584-8-8v-88c0-4.416,3.592-8,8-8h8V464z M448,360h8c4.408,0,8,3.584,8,8v88c0,4.416-3.592,8-8,8h-8V360z M432,360    v104H288V360H432z M216,296v-40h248v16c0,13.232-10.768,24-24,24H216z" data-original="#000000" class="active-path" data-old_color="#C31D1D" fill="#444444"/>
-	</g>
-</g><g>
-	<g>
-		<rect x="156.117" y="111.979" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -19.2296 193.5331)" width="135.767" height="16" data-original="#000000" class="active-path" data-old_color="#C31D1D" fill="#444444"/>
-	</g>
-</g><g>
-	<g>
-		<rect x="252.119" y="112.001" transform="matrix(0.7071 -0.7071 0.7071 0.7071 8.8727 261.423)" width="135.767" height="16" data-original="#000000" class="active-path" data-old_color="#C31D1D" fill="#444444"/>
-	</g>
-</g><g>
-	<g>
-		<rect x="34.74" y="320.001" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -208.5012 152.6348)" width="90.511" height="16" data-original="#000000" class="active-path" data-old_color="#C31D1D" fill="#444444"/>
-	</g>
-</g><g>
-	<g>
-		<rect x="82.739" y="335.998" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -205.7543 191.2603)" width="90.511" height="16" data-original="#000000" class="active-path" data-old_color="#C31D1D" fill="#444444"/>
-	</g>
-</g><g>
-	<g>
-		<rect x="302.055" y="400.002" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -190.0905 357.0855)" width="67.879" height="16" data-original="#000000" class="active-path" data-old_color="#C31D1D" fill="#444444"/>
-	</g>
-</g><g>
-	<g>
-		<rect x="350.052" y="400.005" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -176.0347 391.0246)" width="67.879" height="16" data-original="#000000" class="active-path" data-old_color="#C31D1D" fill="#444444"/>
-	</g>
-</g><g>
-	<g>
-		<rect x="432" y="208" width="16" height="16" data-original="#000000" class="active-path" data-old_color="#C31D1D" fill="#444444"/>
-	</g>
-</g><g>
-	<g>
-		<rect x="400" y="208" width="16" height="16" data-original="#000000" class="active-path" data-old_color="#C31D1D" fill="#444444"/>
-	</g>
-</g><g>
-	<g>
-		<rect x="368" y="208" width="16" height="16" data-original="#000000" class="active-path" data-old_color="#C31D1D" fill="#444444"/>
-	</g>
-</g></g> </svg>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 viewBox="0 0 501.551 501.551" xml:space="preserve">
+<path style="fill:#40596B;" d="M484.833,41.796H20.898C9.404,41.796,0,51.2,0,62.694v321.829h501.551V58.514
+	C501.551,49.11,494.237,41.796,484.833,41.796z"/>
+<path style="fill:#F2F2F2;" d="M0,384.522v39.706c0,11.494,9.404,20.898,20.898,20.898h459.755c11.494,0,20.898-9.404,20.898-20.898
+	v-39.706H0z"/>
+<g>
+	<circle style="fill:#CDD6E0;" cx="250.776" cy="414.824" r="11.494"/>
+	<rect x="154.645" y="445.126" style="fill:#CDD6E0;" width="192.261" height="39.706"/>
+</g>
+<rect x="113.894" y="484.833" style="fill:#F2F2F2;" width="272.718" height="16.718"/>
+<rect x="154.645" y="445.126" style="fill:#ACB3BA;" width="192.261" height="15.673"/>
+<rect x="33.437" y="72.098" style="fill:#84DBFF;" width="434.678" height="282.122"/>
+<g>
+	<polygon style="fill:#334A5E;" points="330.188,72.098 330.188,41.796 330.188,41.796 345.861,41.796 345.861,72.098 
+		345.861,72.098 	"/>
+	<polygon style="fill:#334A5E;" points="155.69,72.098 155.69,41.796 155.69,41.796 171.363,41.796 171.363,72.098 171.363,72.098 	
+		"/>
+</g>
+<path style="fill:#40596B;" d="M317.649,0H183.902c-7.314,0-12.539,5.224-12.539,12.539v238.237c0,7.314,5.225,12.539,12.539,12.539
+	h133.747c7.314,0,12.539-5.224,12.539-12.539V12.539C330.188,5.224,324.963,0,317.649,0z"/>
+<rect x="185.051" y="25.161" style="fill:#FFFFFF;" width="131.657" height="201.665"/>
+<g>
+	<circle style="fill:#ACB3BA;" cx="250.776" cy="244.506" r="10.449"/>
+	<path style="fill:#ACB3BA;" d="M268.539,9.404h-35.527c-2.09,0-3.135,1.045-3.135,3.135l0,0c0,2.09,1.045,3.135,3.135,3.135h35.527
+		c2.09,0,3.135-1.045,3.135-3.135l0,0C271.673,10.449,270.629,9.404,268.539,9.404z"/>
+</g>
+<g>
+	<rect x="195.396" y="40.751" style="fill:#FFD15C;" width="52.245" height="52.245"/>
+	<rect x="253.91" y="40.751" style="fill:#FFD15C;" width="52.245" height="52.245"/>
+</g>
+<rect x="195.396" y="99.265" style="fill:#FF7058;" width="110.759" height="43.886"/>
+<g>
+	<rect x="195.396" y="153.6" style="fill:#CDD6E0;" width="110.759" height="24.033"/>
+	<rect x="195.396" y="191.216" style="fill:#CDD6E0;" width="110.759" height="24.033"/>
+</g>
+</svg>

@@ -1,0 +1,15 @@
+#service {
+    height: 93vh;
+    margin-top: 3vh;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+.subtitle {
+    font-size: 0.9em;
+}
