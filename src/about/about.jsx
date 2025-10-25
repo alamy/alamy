@@ -1,5 +1,5 @@
 import React from "react";
-import man from '../img/perfil.jpg';
+import man from '../img/perfilNTT.png';
 import "./about.css";
 import alamy from '../img/CV_Alamy_Neto_en.pdf'
 

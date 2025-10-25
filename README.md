@@ -1,70 +1,64 @@
-# Getting Started with Create React App
+# 💼 Alamy Neto - Product Designer Sênior
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bem-vindo ao meu repositório de currículo e portfólio! Aqui você encontrará informações sobre minha trajetória profissional, habilidades técnicas e projetos que refletem minha paixão por design e tecnologia.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 📄 Sobre Mim
 
-### `npm start`
+- **Nome:** Alamy Neto  
+- **Cargo Atual:** Product Designer Sênior na NTT Data  
+- **Experiência:** 17 anos em desenvolvimento de software  
+- **Stack Principal:** React, Angular, Vue, Node.js, .NET C#, SQL Server  
+- **Interesses:** UI/UX Design, Web3, Inovação em Produtos Digitais, Desenvolvimento Frontend e Backend  
+- **Local:** Recife, Pernambuco, Brasil  
+- **Idiomas:** Português (nativo), Inglês (intermediário)  
+- **Objetivo Profissional:** Migrar para Portugal e atuar em projetos internacionais com foco em tecnologia e design  
+- **Valores:** Colaboração, aprendizado contínuo e impacto positivo através da tecnologia  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🧩 Experiência
 
-### `npm test`
+Com 17 anos de experiência em desenvolvimento de software, atuei em projetos que vão desde aplicações corporativas até produtos digitais inovadores. Minha jornada inclui:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Desenvolvimento de interfaces modernas e responsivas com **React**, **Angular** e **Vue**.
+- Criação de APIs robustas e escaláveis utilizando **Node.js** e **.NET C#**.
+- Design de soluções centradas no usuário, alinhando tecnologia e experiência.
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## ⚙️ Skills
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 🌍 Projetos em Destaque
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- [**Projeto Frontend com React**](#)  
+  Uma aplicação moderna e responsiva desenvolvida com React e integração com APIs RESTful.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- [**Design System laUrsa**](#)  
+  Um sistema de design escalável para padronizar componentes e melhorar a consistência visual em produtos digitais.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- [**Dashboard Analítica com Angular**](#)  
+  Uma ferramenta de análise de dados com visualizações interativas e arquitetura modular.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## 📬 Contato
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- **LinkedIn:** [linkedin.com/in/alamyneto](https://www.linkedin.com/in/alamyneto)  
+- **GitHub:** [github.com/alamyneto](https://github.com/alamyneto)  
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Sinta-se à vontade para entrar em contato e discutir oportunidades ou projetos colaborativos!
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+> "A tecnologia é melhor quando une as pessoas." – Matt Mullenweg
