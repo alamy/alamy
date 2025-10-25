@@ -1,30 +1,38 @@
-# 💼 Alamy Neto - Product Designer Sênior
+# 💼 Alamy Neto - Product Designer Senior
 
-Bem-vindo ao meu repositório de currículo e portfólio! Aqui você encontrará informações sobre minha trajetória profissional, habilidades técnicas e projetos que refletem minha paixão por design e tecnologia.
-
----
-
-## 📄 Sobre Mim
-
-- **Nome:** Alamy Neto  
-- **Cargo Atual:** Product Designer Sênior na NTT Data  
-- **Experiência:** 17 anos em desenvolvimento de software  
-- **Stack Principal:** React, Angular, Vue, Node.js, .NET C#, SQL Server  
-- **Interesses:** UI/UX Design, Web3, Inovação em Produtos Digitais, Desenvolvimento Frontend e Backend  
-- **Local:** Recife, Pernambuco, Brasil  
-- **Idiomas:** Português (nativo), Inglês (intermediário)  
-- **Objetivo Profissional:** Migrar para Portugal e atuar em projetos internacionais com foco em tecnologia e design  
-- **Valores:** Colaboração, aprendizado contínuo e impacto positivo através da tecnologia  
+Welcome to my resume and portfolio repository! Here you will find information about my professional journey, technical skills, and projects that reflect my passion for design and technology.
 
 ---
 
-## 🧩 Experiência
+## 🌐 Available Languages
 
-Com 17 anos de experiência em desenvolvimento de software, atuei em projetos que vão desde aplicações corporativas até produtos digitais inovadores. Minha jornada inclui:
+- [🇺🇸 English](README.md)
+- [🇧🇷 Português](README.pt.md)
+- [🇫🇷 Français](README.fr.md)
 
-- Desenvolvimento de interfaces modernas e responsivas com **React**, **Angular** e **Vue**.
-- Criação de APIs robustas e escaláveis utilizando **Node.js** e **.NET C#**.
-- Design de soluções centradas no usuário, alinhando tecnologia e experiência.
+---
+
+## 📄 About Me
+
+- **Name:** Alamy Neto  
+- **Current Position:** Senior Product Designer at NTT Data  
+- **Experience:** 17 years in software development  
+- **Main Stack:** React, Angular, Vue, Node.js, .NET C#, SQL Server  
+- **Interests:** UI/UX Design, Web3, Digital Product Innovation, Frontend and Backend Development  
+- **Location:** Recife, Pernambuco, Brazil  
+- **Languages:** Portuguese (native), English (intermediate)  
+- **Career Goal:** Relocate to Portugal and work on international projects focused on technology and design  
+- **Values:** Collaboration, continuous learning, and positive impact through technology  
+
+---
+
+## 🧩 Experience
+
+With 17 years of experience in software development, I have worked on projects ranging from corporate applications to innovative digital products. My journey includes:
+
+- Developing modern and responsive interfaces with **React**, **Angular**, and **Vue**.
+- Creating robust and scalable APIs using **Node.js** and **.NET C#**.
+- Designing user-centered solutions, aligning technology and experience.
 
 ---
 
@@ -39,26 +47,26 @@ Com 17 anos de experiência em desenvolvimento de software, atuei em projetos qu
 
 ---
 
-## 🌍 Projetos em Destaque
+## 🌍 Featured Projects
 
-- [**Projeto Frontend com React**](#)  
-  Uma aplicação moderna e responsiva desenvolvida com React e integração com APIs RESTful.
+- [**Frontend Project with React**](#)  
+  A modern and responsive application developed with React and integration with RESTful APIs.
 
 - [**Design System laUrsa**](#)  
-  Um sistema de design escalável para padronizar componentes e melhorar a consistência visual em produtos digitais.
+  A scalable design system to standardize components and improve visual consistency in digital products.
 
-- [**Dashboard Analítica com Angular**](#)  
-  Uma ferramenta de análise de dados com visualizações interativas e arquitetura modular.
+- [**Analytical Dashboard with Angular**](#)  
+  A data analysis tool with interactive visualizations and modular architecture.
 
 ---
 
-## 📬 Contato
+## 📬 Contact
 
 - **LinkedIn:** [linkedin.com/in/alamyneto](https://www.linkedin.com/in/alamyneto)  
 - **GitHub:** [github.com/alamyneto](https://github.com/alamyneto)  
 
-Sinta-se à vontade para entrar em contato e discutir oportunidades ou projetos colaborativos!
+Feel free to reach out to discuss opportunities or collaborative projects!
 
 ---
 
-> "A tecnologia é melhor quando une as pessoas." – Matt Mullenweg
+> "Technology is best when it brings people together." – Matt Mullenweg
