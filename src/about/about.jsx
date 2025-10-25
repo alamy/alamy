@@ -1,5 +1,5 @@
-import React from "react";
-import man from '../img/perfilNTT.png';
+import React, { useState, useEffect } from "react";
+import man1 from '../img/perfilNTT2.jpg';
 import "./about.css";
 import alamy from '../img/CV_Alamy_Neto_en.pdf';
 
@@ -14,7 +14,7 @@ export default function About() {
         <div className="container text-center">
             <div className="about">
                 <div className="about-img-holder">
-                    <img src={man} className="about-img" alt="Profile picture of Alamy Neto" />
+                    <img src={man1} className="about-img" alt="Profile picture of Alamy Neto" />
                 </div>
                 <div className="about-caption">
                     <p className="section-subtitle">Who Am I?</p>

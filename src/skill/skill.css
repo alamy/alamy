@@ -13,3 +13,44 @@
 .subtitle {
     font-size: 0.9em;
 }
+
+.service-card {
+    position: relative;
+    overflow: hidden;
+    transition: all 0.3s ease-in-out;
+}
+
+.service-card .body {
+    text-align: center;
+}
+
+.service-card .icon {
+    transition: opacity 0.3s ease-in-out;
+    opacity: 1;
+}
+
+.service-card:hover .icon {
+    opacity: 0;
+}
+
+.service-card:hover .title,
+.service-card:hover .subtitle {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.service-card .title {
+    opacity: 1; /* Sempre visível */
+    transform: translateY(0); /* Posição inicial */
+    transition: all 0.3s ease-in-out;
+}
+
+.service-card:hover .title {
+    transform: translateY(-40px); /* Ajustado para subir ao passar o mouse */
+}
+
+.service-card .subtitle {
+    opacity: 0;
+    transform: translateY(10px);
+    transition: all 0.3s ease-in-out;
+}

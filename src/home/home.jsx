@@ -1,5 +1,6 @@
 import React from "react";
 import './home.css';
+import banner from '../img/banner.jpg';
 
 export default function Home() {
     const git = () => {
@@ -12,7 +13,7 @@ export default function Home() {
 
     return (
         <>
-            <header id="home" className="header">
+            <header id="home" className="header" style={{ backgroundImage: `url(${banner})` }}>
                 <div className="overlay"></div>
                 <div className="header-content container">
                     <h1 className="header-title">
@@ -22,7 +23,7 @@ export default function Home() {
                     <p className="header-subtitle">FRONTEND WEB DESIGNER</p>
 
                     <button onClick={git} className="btn btn-primary">Visit My GitHUB</button>
-                    <button onClick={whatsapp} className="btn btn-secondary left">Contact Me on WhatsApp</button>
+                    <button onClick={whatsapp} className="btn btn-secondary">Contact Me on WhatsApp</button>
                 </div>
             </header>
         </>

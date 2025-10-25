@@ -237,6 +237,8 @@ button,
 select,
 optgroup,
 textarea {
+  appearance: none;
+  -webkit-appearance: none;
   margin: 0;
   font-family: inherit;
   font-size: inherit;
@@ -261,6 +263,7 @@ button,
 [type="button"],
 [type="reset"],
 [type="submit"] {
+  appearance: button;
   -webkit-appearance: button;
 }
 
