@@ -1,0 +1,55 @@
+{
+  "header": {
+    "greeting": "Olá!",
+    "introduction": "Eu sou Alamy Neto",
+    "subtitle": "DESIGNER DE PRODUTO E DESENVOLVEDOR FRONTEND"
+  },
+  "about": {
+    "title": "Sobre Mim",
+    "whoAmI": "Quem Sou Eu?",
+    "description": "Sou dedicado, comunicativo, criativo e comprometido com as tarefas que me são atribuídas. Apaixonado por tecnologia desde a infância, minha curiosidade me levou a aprender de forma autodidata. Criativo e inovador, respiro ideias novas e desafios empresariais.",
+    "details": [
+      "Especialista em frontend com experiência em arquitetura de micro frontends.",
+      "Base de desenvolvimento em agência digital, criando diversos sites para grandes empresas da minha região.",
+      "Eterno estudante de 'comportamento humano', crio aplicações sempre pensando no usuário final, com a missão de tornar os sistemas intuitivos.",
+      "Desejo muito morar em Portugal e estou me preparando para essa missão.",
+      "Pai de duas meninas lindas, Luna e Leona, e casado com Maria Gabriela. Toda minha dedicação é para orgulhá-las e garantir sua segurança.",
+      "Praticante de Aikido e Iaido, aplico os princípios do Bushido no ambiente de trabalho, como compromisso, fidelidade, lealdade e honra."
+    ]
+  },
+  "skills": {
+    "title": "Habilidades",
+    "list": [
+      "React",
+      "Angular",
+      "Vue.js",
+      "Node.js",
+      ".NET C#",
+      "SQL Server"
+    ]
+  },
+  "projects": {
+    "title": "Projetos em Destaque",
+    "items": [
+      {
+        "name": "Projeto Frontend com React",
+        "description": "Uma aplicação moderna e responsiva desenvolvida com React e integração com APIs RESTful."
+      },
+      {
+        "name": "Design System laUrsa",
+        "description": "Um sistema de design escalável para padronizar componentes e melhorar a consistência visual em produtos digitais."
+      },
+      {
+        "name": "Dashboard Analítica com Angular",
+        "description": "Uma ferramenta de análise de dados com visualizações interativas e arquitetura modular."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contato",
+    "email": "alamy.nt@gmail.com",
+    "phone": "+55 81 99971-2812",
+    "linkedin": "https://www.linkedin.com/in/alamyneto",
+    "github": "https://github.com/alamyneto"
+  }
+}

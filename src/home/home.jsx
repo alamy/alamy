@@ -1,24 +1,30 @@
 import React from "react";
 import './home.css';
 
-export default function Home(){
+export default function Home() {
     const git = () => {
-        window.location = "https://github.com/alamy"
-    }
+        window.location = "https://github.com/alamy";
+    };
+
+    const whatsapp = () => {
+        window.location = "https://wa.me/5581999712812";
+    };
+
     return (
         <>
-         <header id="home" className="header">
-            <div className="overlay"></div>
+            <header id="home" className="header">
+                <div className="overlay"></div>
                 <div className="header-content container">
                     <h1 className="header-title">
                         <span className="up">HI!</span>
                         <span className="down">I am Alamy Neto</span>
                     </h1>
-                    <p className="header-subtitle">FRONTEND WEB DESIGNER</p>            
+                    <p className="header-subtitle">FRONTEND WEB DESIGNER</p>
 
                     <button onClick={git} className="btn btn-primary">Visit My GitHUB</button>
-            </div>              
-        </header>
+                    <button onClick={whatsapp} className="btn btn-secondary left">Contact Me on WhatsApp</button>
+                </div>
+            </header>
         </>
     );
 }

@@ -1,3 +1,4 @@
+import React from 'react';
 import {
   BrowserRouter as Router, 
   Routes, 
@@ -9,11 +10,12 @@ import MenuComponent from './component/menuComponent';
 import Home from './home/home';
 import Skill from './skill/skill';
 import Contact from './contact';
+import ErrorBoundary from './ErrorBoundary';
 
 function App() {
   return (
     <Router>
-    <MenuComponent />
+      <MenuComponent />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/abolt" element={<About />} />

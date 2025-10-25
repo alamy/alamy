@@ -1,0 +1,55 @@
+{
+  "header": {
+    "greeting": "Hi!",
+    "introduction": "I am Alamy Neto",
+    "subtitle": "PRODUCT DESIGNER AND FRONTEND DEVELOPER"
+  },
+  "about": {
+    "title": "About Me",
+    "whoAmI": "Who Am I?",
+    "description": "I am dedicated, communicative, creative, and committed to the tasks assigned to me. Passionate about technology since childhood, my curiosity led me to learn on my own. Creative and innovative, I breathe new ideas and business challenges.",
+    "details": [
+      "Frontend specialist with experience in micro frontend architecture.",
+      "Development background in a digital agency, creating many websites for large companies in my region.",
+      "An eternal student of 'human behavior,' I create applications always thinking about the end user, with the mission of making systems intuitive.",
+      "I really want to live in Portugal and I am preparing for this mission.",
+      "Father of two beautiful girls, Luna and Leona, and married to Maria Gabriela. All my dedication is to make them proud and ensure their safety.",
+      "Aikido and Iaido practitioner, I apply the principles of Bushido in the work environment, such as commitment, fidelity, loyalty, and honor."
+    ]
+  },
+  "skills": {
+    "title": "Skills",
+    "list": [
+      "React",
+      "Angular",
+      "Vue.js",
+      "Node.js",
+      ".NET C#",
+      "SQL Server"
+    ]
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "items": [
+      {
+        "name": "Frontend Project with React",
+        "description": "A modern and responsive application developed with React and integration with RESTful APIs."
+      },
+      {
+        "name": "Design System laUrsa",
+        "description": "A scalable design system to standardize components and improve visual consistency in digital products."
+      },
+      {
+        "name": "Analytical Dashboard with Angular",
+        "description": "A data analysis tool with interactive visualizations and modular architecture."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "email": "alamy.nt@gmail.com",
+    "phone": "+55 81 99971-2812",
+    "linkedin": "https://www.linkedin.com/in/alamyneto",
+    "github": "https://github.com/alamyneto"
+  }
+}

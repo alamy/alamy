@@ -1,0 +1,55 @@
+{
+  "header": {
+    "greeting": "Salut!",
+    "introduction": "Je suis Alamy Neto",
+    "subtitle": "DESIGNER DE PRODUIT ET DÉVELOPPEUR FRONTEND"
+  },
+  "about": {
+    "title": "À propos de moi",
+    "whoAmI": "Qui suis-je?",
+    "description": "Je suis dévoué, communicatif, créatif et engagé dans les tâches qui me sont confiées. Passionné par la technologie depuis mon enfance, ma curiosité m'a conduit à apprendre par moi-même. Créatif et innovant, je respire de nouvelles idées et des défis commerciaux.",
+    "details": [
+      "Spécialiste frontend avec une expérience en architecture de micro frontends.",
+      "Expérience de développement dans une agence digitale, créant de nombreux sites web pour de grandes entreprises de ma région.",
+      "Éternel étudiant du 'comportement humain', je crée des applications en pensant toujours à l'utilisateur final, avec pour mission de rendre les systèmes intuitifs.",
+      "Je souhaite vraiment vivre au Portugal et je me prépare pour cette mission.",
+      "Père de deux belles filles, Luna et Leona, et marié à Maria Gabriela. Toute ma dévotion est de les rendre fières et d'assurer leur sécurité.",
+      "Pratiquant d'Aïkido et d'Iaido, j'applique les principes du Bushido dans l'environnement de travail, tels que l'engagement, la fidélité, la loyauté et l'honneur."
+    ]
+  },
+  "skills": {
+    "title": "Compétences",
+    "list": [
+      "React",
+      "Angular",
+      "Vue.js",
+      "Node.js",
+      ".NET C#",
+      "SQL Server"
+    ]
+  },
+  "projects": {
+    "title": "Projets en vedette",
+    "items": [
+      {
+        "name": "Projet Frontend avec React",
+        "description": "Une application moderne et réactive développée avec React et intégration avec des APIs RESTful."
+      },
+      {
+        "name": "Design System laUrsa",
+        "description": "Un système de design évolutif pour standardiser les composants et améliorer la cohérence visuelle dans les produits digitaux."
+      },
+      {
+        "name": "Tableau de bord analytique avec Angular",
+        "description": "Un outil d'analyse de données avec des visualisations interactives et une architecture modulaire."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "email": "alamy.nt@gmail.com",
+    "phone": "+55 81 99971-2812",
+    "linkedin": "https://www.linkedin.com/in/alamyneto",
+    "github": "https://github.com/alamyneto"
+  }
+}
