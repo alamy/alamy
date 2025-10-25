@@ -22,7 +22,7 @@ export default function Home() {
                     </h1>
                     <p className="header-subtitle">FRONTEND WEB DESIGNER</p>
 
-                    <button onClick={git} className="btn btn-primary">Visit My GitHUB</button>
+                    <button onClick={git} className="btn btn-primary" style={{ marginRight: '10px' }}>Visit My GitHUB</button>
                     <button onClick={whatsapp} className="btn btn-secondary">Contact Me on WhatsApp</button>
                 </div>
             </header>
