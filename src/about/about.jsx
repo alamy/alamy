@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import man1 from '../img/perfilNTT2.jpg';
 import "./about.css";
-import alamy from '../img/CV_Alamy_Neto_en.pdf';
+import alamy from '../img/alamy_neto.pdf';
 
 export default function About() {
     const baixar = () => {
